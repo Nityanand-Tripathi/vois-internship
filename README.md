@@ -1,5 +1,5 @@
 
-# vosi-internship
+# vois-internship
 Data analysis and visualization of CarDekho used-car data to identify key factors influencing selling prices and market trends.
 =======
 # 🚗 Car Market Trends Analysis
